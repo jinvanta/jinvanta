@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" style="display:none">
+  <defs>
+    <!-- Pure  Ghee Batti -->
+    <symbol id="ghee" viewBox="0 0 120 120">
+      <path d="M60 18c5 7 8 12 8 16a8 8 0 0 1-16 0c0-4 3-9 8-16z" fill="#e98a15"/>
+      <path d="M60 28c2.5 3.5 4 6 4 8a4 4 0 0 1-8 0c0-2 1.5-4.5 4-8z" fill="#f4d35e"/>
+      <rect x="46" y="58" width="28" height="40" rx="6" fill="currentColor"/>
+      <rect x="46" y="58" width="28" height="8" rx="4" fill="#c9a14a"/>
+      <line x1="60" y1="50" x2="60" y2="58" stroke="currentColor" stroke-width="3"/>
+    </symbol>
+
+    <!-- Guggal (resin nuggets in bowl) -->
+    <symbol id="guggal" viewBox="0 0 120 120">
+      <path d="M30 64h60a30 18 0 0 1-60 0z" fill="currentColor"/>
+      <path d="M30 64h60a30 6 0 0 1-60 0z" fill="#c9a14a"/>
+      <circle cx="50" cy="56" r="7" fill="#b07a3c"/>
+      <circle cx="64" cy="58" r="8" fill="#e98a15"/>
+      <circle cx="76" cy="55" r="6" fill="#b07a3c"/>
+      <circle cx="58" cy="50" r="5" fill="#f4a93c"/>
+    </symbol>
+
+    <!-- Loban (resin pieces) -->
+    <symbol id="loban" viewBox="0 0 120 120">
+      <path d="M36 70a24 16 0 0 1 48 0z" fill="currentColor"/>
+      <path d="M40 64c4-6 12-6 16 0-3 4-13 4-16 0z" fill="#e3c884"/>
+      <path d="M62 62c4-6 12-6 16 0-3 4-13 4-16 0z" fill="#f4a93c"/>
+      <path d="M52 52c4-6 12-6 16 0-3 4-13 4-16 0z" fill="#e3c884"/>
+      <path d="M60 36c4 6 4 12 0 16-4-4-4-10 0-16z" fill="#e98a15"/>
+    </symbol>
+
+    <!-- Roli (vermillion mound) -->
+    <symbol id="roli" viewBox="0 0 120 120">
+      <path d="M34 74h52a26 14 0 0 1-52 0z" fill="currentColor"/>
+      <path d="M34 74h52a26 5 0 0 1-52 0z" fill="#c9a14a"/>
+      <path d="M44 64c0-9 7-16 16-16s16 7 16 16z" fill="#a31515"/>
+      <circle cx="60" cy="46" r="4" fill="#e98a15"/>
+    </symbol>
+
+    <!-- Dhoop Powder (jar) -->
+    <symbol id="dhoop" viewBox="0 0 120 120">
+      <rect x="42" y="46" width="36" height="48" rx="6" fill="currentColor"/>
+      <rect x="46" y="64" width="28" height="26" rx="3" fill="#e3c884"/>
+      <rect x="46" y="64" width="28" height="26" rx="3" fill="#f4a93c" opacity=".5"/>
+      <rect x="40" y="38" width="40" height="10" rx="4" fill="#c9a14a"/>
+      <rect x="52" y="32" width="16" height="8" rx="3" fill="#5a1414"/>
+    </symbol>
+
+    <!-- Havan Samagri (fire kund) -->
+    <symbol id="havan" viewBox="0 0 120 120">
+      <path d="M38 74l8-16h28l8 16z" fill="currentColor"/>
+      <path d="M34 74h52v6H34z" fill="#c9a14a"/>
+      <path d="M60 34c5 8 8 13 8 18a8 8 0 0 1-16 0c0-5 3-10 8-18z" fill="#e98a15"/>
+      <path d="M52 44c-4 5-6 9-6 13a6 6 0 0 0 12 0" fill="none" stroke="#f4a93c" stroke-width="3"/>
+      <path d="M68 44c4 5 6 9 6 13a6 6 0 0 1-12 0" fill="none" stroke="#f4d35e" stroke-width="3"/>
+    </symbol>
+  </defs>
+</svg>
